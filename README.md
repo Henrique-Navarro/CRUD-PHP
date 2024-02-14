@@ -25,8 +25,8 @@ Este é um projeto de exemplo para demonstrar a implementação de operações C
 
     [http://localhost:8080](http://localhost:8080)
 
-4. **Encerrando o ambiente**
+4. **Para encerrar o ambiente Docker:**
 
-```bash
-docker-compose down
-```
+    ```bash
+    docker-compose down
+    ```
