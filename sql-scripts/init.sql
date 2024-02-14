@@ -1,0 +1,10 @@
+CREATE DATABASE IF NOT EXISTS crud_db;
+
+USE crud_db;
+
+CREATE TABLE IF NOT EXISTS product (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    name VARCHAR(255),
+    category VARCHAR(255),
+    value DECIMAL(10, 2)
+);
