@@ -12,7 +12,7 @@ Este é um projeto de exemplo para demonstrar a implementação de operações C
 1. **Clone este repositório:**
 
     ```bash
-    [git clone https://github.com/seu-usuario/seu-repositorio.git](https://github.com/Henrique-Navarro/CRUD-PHP.git)
+    git clone https://github.com/seu-usuario/seu-repositorio.git
     ```
 
 2. **Execute o Docker Compose para iniciar os serviços:**
